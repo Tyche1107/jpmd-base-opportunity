@@ -2,7 +2,7 @@
 
 **Institutional USDC Flow Analysis on Base Network**
 
-Prepared for JPMorgan Kinexys Team (Basak Toprak, Kara Kennedy)  
+Prepared for JPMorgan Kinexys  
 By: University of Washington Decentralized Computing Lab  
 Author: Adeline Wen (Undergraduate Research Assistant, HasciDB Project)
 
@@ -12,7 +12,7 @@ Author: Adeline Wen (Undergraduate Research Assistant, HasciDB Project)
 
 This analysis examines 90 days of large institutional USDC transfers (>$100,000) on Base Network to quantify market opportunities for JPMD across different use cases: DeFi collateral, settlement, and cross-chain movement.
 
-**Key Finding:** X% of institutional dollars bypass settlement and flow directly into DeFi protocols, validating Basak Toprak's insight that "cash is collateral in the on-chain world."
+**Key Finding:** X% of institutional dollars bypass settlement and flow directly into DeFi protocols, validating JPMorgan Kinexys's insight that "cash is collateral in the on-chain world."
 
 ---
 
@@ -173,8 +173,8 @@ Sample output (top 30 institutional wallets):
 **Supervisor:** Wei Cai, PhD
 
 **Recipient:** JPMorgan Kinexys Team  
-- Basak Toprak (Product Lead, JPM Coin | Kinexys Digital Payments EMEA)
-- Kara Kennedy (Head of Kinexys)
+- JPMorgan Kinexys (Product Lead, JPM Coin | Kinexys Digital Payments EMEA)
+- JPMorgan Kinexys (Head of Kinexys)
 
 ---
 
