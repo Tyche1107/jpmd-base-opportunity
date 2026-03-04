@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+networkx
+scikit-learn
+python-dateutil
+tqdm
+reportlab
+pillow

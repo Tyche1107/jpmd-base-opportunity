@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    "Source (USDC)",
+    "aave_horizon",
+    "bridges",
+    "exchanges",
+    "morpho",
+    "p2p"
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 821467765.5486557,
+      "label": "$821,467,766"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3062279852.907766,
+      "label": "$3,062,279,853"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 555172158.5042195,
+      "label": "$555,172,159"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 3782238593.9700565,
+      "label": "$3,782,238,594"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 356229916.9011548,
+      "label": "$356,229,917"
+    }
+  ]
+}
