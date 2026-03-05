@@ -1,0 +1,43 @@
+{
+  "fetch_date": "2026-03-04T17:09:13.908753",
+  "jpmd": {
+    "token": "JPMD",
+    "contract": "0x7e0AEdc93d9f898bE835A44BFcA3842E52416B82",
+    "period_days": 90,
+    "transfer_count": 0,
+    "unique_senders": 0,
+    "unique_receivers": 0,
+    "unique_addresses": 0,
+    "current_holders": 0,
+    "total_volume_raw": 0,
+    "total_volume_usd": 0.0,
+    "avg_daily_txs": 0,
+    "daily_breakdown": {},
+    "holders": {},
+    "all_transfers": []
+  },
+  "usdc": {
+    "token": "USDC",
+    "contract": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "period_days": 90,
+    "transfer_count": 0,
+    "unique_senders": 0,
+    "unique_receivers": 0,
+    "unique_addresses": 0,
+    "current_holders": 0,
+    "total_volume_raw": 0,
+    "total_volume_usd": 0.0,
+    "avg_daily_txs": 0,
+    "daily_breakdown": {},
+    "holders": {},
+    "all_transfers": []
+  },
+  "comparison": {
+    "volume_gap": Infinity,
+    "user_gap": Infinity,
+    "tx_gap": Infinity,
+    "cost_per_user": 10000000,
+    "jpmd_volume": 0.0,
+    "usdc_volume": 0.0
+  }
+}

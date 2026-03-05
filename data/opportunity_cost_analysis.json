@@ -1,0 +1,12 @@
+{
+  "usdc_supply": 2500000000,
+  "defi_total": 1300000000,
+  "defi_percentage": 52.0,
+  "jpmd_supply": 0,
+  "opportunity_cost": 2500000000,
+  "scenarios": {
+    "Conservative (1%)": 25000000.0,
+    "Moderate (5%)": 125000000.0,
+    "Aggressive (15%)": 375000000.0
+  }
+}
